@@ -1,0 +1,5 @@
+.hf_cache/
+visual_search_index.faiss
+__pycache__/
+products/
+*.faiss

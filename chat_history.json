@@ -1,0 +1,1390 @@
+{
+    "a05871c0-5b64-48a9-9485-fa737916eb5c": {
+        "title": "hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "હેલો! કેમ કરો છો આજે મારાં પ્રોડક્ટ્સ શોધવામાં મદદ કરવા માટે?"
+            },
+            {
+                "role": "user",
+                "content": "how are you "
+            },
+            {
+                "role": "assistant",
+                "content": "હું સારી રીતે છું. આપણે કેમ કરો છો?"
+            }
+        ]
+    },
+    "9f42952f-c178-4342-b0ae-a05fc6927c31": {
+        "title": "hi ",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hi "
+            },
+            {
+                "role": "assistant",
+                "content": "નમસ્કાર! મને કેવી રીતે આપણે વપરાશકર્તાઓને મદદ કરી શકીએ છીએ તે વિશે આપની મદદ માટે આપની માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી જાહેરાતો કે જેની આપને જરૂર હોય તેની માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાયદેસર વપરાશકર્તા માટે જરૂરી માહિતી આપો.\n\nઆપને કાય"
+            }
+        ]
+    },
+    "66917399-d22a-4e82-ac6a-9e4969e60215": {
+        "title": "how are you ",
+        "messages": [
+            {
+                "role": "user",
+                "content": "how are you "
+            },
+            {
+                "role": "assistant",
+                "content": "શું થાય છે?"
+            }
+        ]
+    },
+    "73d8430d-17df-45a6-b7ed-1aa89f3e3da1": {
+        "title": "how are u",
+        "messages": [
+            {
+                "role": "user",
+                "content": "how are u"
+            },
+            {
+                "role": "assistant",
+                "content": "આપણે કેમ છો?"
+            },
+            {
+                "role": "user",
+                "content": "hi "
+            },
+            {
+                "role": "assistant",
+                "content": "નમસ્કાર! કેમ છો?"
+            }
+        ]
+    },
+    "bbe4e2c1-b922-472d-9450-7eeba46cbd30": {
+        "title": "hi ",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hi "
+            },
+            {
+                "role": "assistant",
+                "content": "નમસ્કાર! મેં તમારી સાથે શો મદદ કરી શકું છું?\n\n| ઉત્પાદક | ઉત્પાદક | કંપની | મૂલ્ય | સ્થાન |\n| --- | --- | --- | --- | --- |\n| કોમ્પ્યુટર માઉસ | કમ્પ્યુટર અને પરિપકવાનું | જલારામ આઈટી સોલ્યુશન | ₹ 430 | રાજકોટ |"
+            },
+            {
+                "role": "user",
+                "content": "hello "
+            },
+            {
+                "role": "assistant",
+                "content": "નમસ્કાર! કેમ છો? મેં તમારી સાથે શો મદદ કરી શકું છું?\n\n| ઉત્પાદક | શ્રેણી | કંપની | મૂલ્ય | સ્થાન |\n| --- | --- | --- | --- | --- |\n| કોમ્પ્યુટર માઉસ | કમ્પ્યુટર અને પરિપકવાનું | જલારામ આઈટી સોલ્યુશન | ₹ 430 | રાજકોટ |"
+            },
+            {
+                "role": "user",
+                "content": "how are you "
+            },
+            {
+                "role": "assistant",
+                "content": "મને ખૂબ જ આનંદ થાય છે કે તમે મને પૂછો છો. મને ખૂબ જ સારું લાગે છે."
+            }
+        ]
+    },
+    "f2ed7d5d-e85a-41e8-9a9f-f64d7ce490cd": {
+        "title": "hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "hi"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "how are u "
+            },
+            {
+                "role": "assistant",
+                "content": "main theek hu. aapko kya zaroorat hai?"
+            },
+            {
+                "role": "user",
+                "content": "Help me find a mobile phone."
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\n| Product Name | Category | Company | Price | Location |\n|--------------|----------|---------|-------|----------|\n| 12 GB Mobile Phones | Consumer Electronics | Sai Computer Solution | ₹ 23,000 | Gurugram |\n| XIAOMI 15 Mobile Phones, 256GB | Consumer Electronics | Magic Park | ₹ 69,999 | Chennai |\n| Golden Itel Super Guru 600 Keypad Mobile Phone | Consumer Electronics | Usha Enterprises | ₹ 1,699 | Bengaluru |\n| Lava Hero Shakti 2025 Dual Sim Keypad Mobile Phone | Consumer Electronics | All In One Store | ₹ 840 | New Delhi |\n| A1 Mobile Phones, 512kb, 1 gb | Consumer Electronics | Cloud99 | ₹ 867 | New Delhi |\n| Mixx LED M1 Black Classic Mobile Phone | Consumer Electronics | Mixx Technologies Private Limited | ₹ 699 | Noida |\n| Silver Samsung Guru 1200 Keypad Mobile Phone | Consumer Electronics | Guruji Enterprises | ₹ 450 | New Delhi |\n| Black Tecno Mobile Phones | Consumer Electronics | DRS Manufacturing | ₹ 6,000 | Danta |\n| Samsung Mobile Phones | Consumer Electronics | Sai Computer Solution | ₹ 23,000 | Gurugram |\n| Mobile Phone, 8 GB | Consumer Electronics | Vs Collection | ₹ 52,000 | Indore |\n| Samsung Mobile | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Black Hopi5 Hi3 Mobile Phone | Consumer Electronics | Smit Marketing | ₹ 450 | Rajkot |\n| Passion Red Vivo V70 Elite Mobile Phone, 8 GB, 256 GB | Consumer Electronics | Nilkanth Mobile | ₹ 56,999 | Rajkot |\n| Mobile Phones | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Lava Z90 Mobile Phone | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Oppo Mobile Phone, 128 GB, 4 GB | Consumer Electronics | Copperlane Manufacturing Co. | ₹ 12,999 | Rajkot |\n| Black Oneplus 15 Mobile Phone | Consumer Electronics | Nilkanth Mobile | ₹ 76,999 | Rajkot |"
+            },
+            {
+                "role": "user",
+                "content": "मला मोबाईल शोधून दे"
+            },
+            {
+                "role": "assistant",
+                "content": "मोबाइल शोधून देणार आहे.\n\n| प्रॉडक्ट नाव | श्रेणी | कंपनी | मूल्य | स्थान |\n|--------------|----------|---------|-------|----------|\n| मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Sai Computer Solution | ₹ 23,000 | गुरुग्राम |\n| Xiaomi 15 मोबाइल फोन, 256GB | उपभोक्ता इलेक्ट्रॉनिक्स | Magic Park | ₹ 69,999 | चेन्नई |\n| गोल्डन इटेल सुपर गुरु 600 कीपैड मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Usha Enterprises | ₹ 1,699 | बेंगलुरु |\n| लावा हीरो शक्ति 2025 ड्युअल सिम कीपैड मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | All In One Store | ₹ 840 | नई दिल्ली |\n| A1 मोबाइल फोन, 512KB, 1 GB | उपभोक्ता इलेक्ट्रॉनिक्स | Cloud99 | ₹ 867 | नई दिल्ली |\n| मिक्स एलईडी एम1 ब्लैक क्लासिक मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Mixx Technologies Private Limited | ₹ 699 | नोएडा |\n| सिल्वर सैमसंग गुरु 1200 कीपैड मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Guruji Enterprises | ₹ 450 | नई दिल्ली |\n| ब्लैक टेक्नो मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | DRS Manufacturing | ₹ 6,000 | डांता |\n| सैमसंग मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Sai Computer Solution | ₹ 23,000 | गुरुग्राम |\n| मोबाइल फोन, 8 GB | उपभोक्ता इलेक्ट्रॉनिक्स | Vs Collection | ₹ 52,000 | इंदौर |\n| सैमसंग मोबाइल | उपभोक्ता इलेक्ट्रॉनिक्स | Swetayan Mobile Sales And Service | ₹ 450 | अमरेली |\n| ब्लैक होपी5 ही3 मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Smit Marketing | ₹ 450 | राजकोट |\n| पासियन रेड विवो वी70 एलीट मोबाइल फोन, 8 GB, 256 GB | उपभोक्ता इलेक्ट्रॉनिक्स | Nilkanth Mobile | ₹ 56,999 | राजकोट |\n| मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Swetayan Mobile Sales And Service | ₹ 450 | अमरेली |\n| लावा Z90 मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Swetayan Mobile Sales And Service | ₹ 450 | अमरेली |\n| ओप्पो मोबाइल फोन, 128 GB, 4 GB | उपभोक्ता इलेक्ट्रॉनिक्स | Copperlane Manufacturing Co. | ₹ 12,999 | राजकोट |\n| ब्लैक वनप्लस 15 मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Nilkanth Mobile | ₹ 76,999 | राजकोट |"
+            },
+            {
+                "role": "user",
+                "content": "मुझे एक मोबाइल ढूंढ दो।"
+            },
+            {
+                "role": "assistant",
+                "content": "मोबाइल ढूंढून देणार आहे.\n\n| प्रॉडक्ट नाव | श्रेणी | कंपनी | मूल्य | स्थान |\n|--------------|----------|---------|-------|----------|\n| मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Sai Computer Solution | ₹ 23,000 | गुरुग्राम |\n| Xiaomi 15 मोबाइल फोन, 256GB | उपभोक्ता इलेक्ट्रॉनिक्स | Magic Park | ₹ 69,999 | चेन्नई |\n| गोल्डन इटेल सुपर गुरु 600 कीपैड मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Usha Enterprises | ₹ 1,699 | बेंगलुरु |\n| लावा हीरो शक्ति 2025 ड्युअल सिम कीपैड मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | All In One Store | ₹ 840 | नई दिल्ली |\n| A1 मोबाइल फोन, 512KB, 1 GB | उपभोक्ता इलेक्ट्रॉनिक्स | Cloud99 | ₹ 867 | नई दिल्ली |\n| मिक्स एलईडी एम1 ब्लैक क्लासिक मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Mixx Technologies Private Limited | ₹ 699 | नोएडा |\n| सिल्वर सैमसंग गुरु 1200 कीपैड मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Guruji Enterprises | ₹ 450 | नई दिल्ली |\n| ब्लैक टेक्नो मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | DRS Manufacturing | ₹ 6,000 | डांता |\n| सैमसंग मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Sai Computer Solution | ₹ 23,000 | गुरुग्राम |\n| मोबाइल फोन, 8 GB | उपभोक्ता इलेक्ट्रॉनिक्स | Vs Collection | ₹ 52,000 | इंदौर |\n| सैमसंग मोबाइल | उपभोक्ता इलेक्ट्रॉनिक्स | Swetayan Mobile Sales And Service | ₹ 450 | अमरेली |\n| ब्लैक होपी5 ही3 मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Smit Marketing | ₹ 450 | राजकोट |\n| पासियन रेड विवो वी70 एलीट मोबाइल फोन, 8 GB, 256 GB | उपभोक्ता इलेक्ट्रॉनिक्स | Nilkanth Mobile | ₹ 56,999 | राजकोट |\n| मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Swetayan Mobile Sales And Service | ₹ 450 | अमरेली |\n| लावा Z90 मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Swetayan Mobile Sales And Service | ₹ 450 | अमरेली |\n| ओप्पो मोबाइल फोन, 128 GB, 4 GB | उपभोक्ता इलेक्ट्रॉनिक्स | Copperlane Manufacturing Co. | ₹ 12,999 | राजकोट |\n| ब्लैक वनप्लस 15 मोबाइल फोन | उपभोक्ता इलेक्ट्रॉनिक्स | Nilkanth Mobile | ₹ 76,999 | राजकोट |"
+            }
+        ]
+    },
+    "3959a4c3-c8d9-4bde-b5b6-03ea3dc2e24c": {
+        "title": "તું મને મોબાઇલ ગોતી દે",
+        "messages": [
+            {
+                "role": "user",
+                "content": "તું મને મોબાઇલ ગોતી દે"
+            },
+            {
+                "role": "assistant",
+                "content": "હેલો! કેમ તમે મને આજે ઉત્પાદનો શોધવામાં મદદ કરવા માટે સમજાવો છો?\n\n| ઉત્પાદનનું નામ | શ્રેણી | કંપની | ધન | સ્થળ |\n| --- | --- | --- | --- | --- |\n| મોબાઇલ ગોતી સર્વિસ | સામાન્ય સેવાઓ | કેશવ ઇન્ફોટેક | ₹ ૫,૦૦૦ | રાજકોટ |"
+            },
+            {
+                "role": "user",
+                "content": "how are u "
+            },
+            {
+                "role": "assistant",
+                "content": "I'm doing well, thanks for asking. \n\nHello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "tu mane jcb gori de ne "
+            },
+            {
+                "role": "assistant",
+                "content": "તું મને JCB ગોરી દે તો નીચે મુજબના ઉત્પાદનો મળી શકે છે:\n\n| ઉત્પાદનનું નામ | શ્રેણી | કંપની | ધન | સ્થળ |\n| --- | --- | --- | --- | --- |\n| JCB ટ્રેક્ડ એક્સકેવેટર JS 81 | નિર્માણ યાન | SS એપાર્ટમેન્ટ્સ | આસ્ક ધન | રાજકોટ |\n| JCB 385LC એક્સકેવેટર | નિર્માણ યાન | JCB ઇન્ડિયા લિમિટેડ | આસ્ક ધન | ફરીદાબાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |"
+            },
+            {
+                "role": "user",
+                "content": "Can you help me find a JCB?"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\nHowever, I do not see any products related to JCB in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "Can you help me find a JCB"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\nHowever, I do not see any products related to JCB in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "can you help me find a jcb 3DX  "
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\nતમારે જોવા માટે નીચેના ઉત્પાદનો મળી શકે છે:\n\n| ઉત્પાદનનું નામ | શ્રેણી | કંપની | ધન | સ્થળ |\n| --- | --- | --- | --- | --- |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |"
+            },
+            {
+                "role": "user",
+                "content": "Please find a JCB for me"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\nતમારે જોવા માટે નીચેના ઉત્પાદનો મળી શકે છે:\n\n| ઉત્પાદનનું નામ | શ્રેણી | કંપની | ધન | સ્થળ |\n| --- | --- | --- | --- | --- |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| JCB 3DX બેકહો લોડર | નિર્માણ યાન | પીપ્રાણી ઈથ મોવર્સ | ₹ 31,00,000 | અમદાવાદ |"
+            }
+        ]
+    },
+    "56b93e75-d18e-4d96-8bbd-d09b05a35947": {
+        "title": "Please find a JCB for me",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Please find a JCB for me"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\n| Product Name | Category | Company | Price | Location |\n|--------------|----------|---------|-------|----------|\n| JCB Tracked Excavator JS 81 | Construction Machinery | SS Equipments | Ask Price | Rajkot |\n| JCB 385LC Excavator | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| JCB Tracked Excavator JS 81 | Construction Machinery | SS Equipments | Ask Price | Rajkot |\n| JCB 385LC Excavator | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| JCB Tracked Excavator JS 81 | Construction Machinery | SS Equipments | Ask Price | Rajkot |\n| JCB 385LC Excavator | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| JCB Tracked Excavator JS 81 | Construction Machinery | SS Equipments | Ask Price | Rajkot |\n| JCB 385LC Excavator | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| EN8 Open Reduction EOT Crane Single Girder End Carriage Set 5 Ton | Construction Machinery | Top Crane System Private Limited | ₹ 1,00,000 | Rajkot - Deals in Amreli |\n| JCB Backhoe Loader, 55 kw | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |"
+            },
+            {
+                "role": "user",
+                "content": "how are u "
+            },
+            {
+                "role": "assistant",
+                "content": "I am doing well, thank you for asking."
+            },
+            {
+                "role": "user",
+                "content": "hi"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "எனக்காக ஒரு JCB-ஐ கண்டுபிடித்து தர முடியுமா?"
+            },
+            {
+                "role": "assistant",
+                "content": "நான் உங்களுக்கு உதவி செய்ய வேண்டும் என்றால் என்ன செய்வது என்பதை கேட்டுக்கொள்கிறேன்.\n\n| பொருள் பெயர் | வகை | நிறுவனம் | விலை | இடம் |\n|--------------|----------|---------|-------|----------|\n| JCB Tracked Excavator JS 81 | Construction Machinery | SS Equipments | Ask Price | Rajkot |\n| JCB 385LC Excavator | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| JCB Tracked Excavator JS 81 | Construction Machinery | SS Equipments | Ask Price | Rajkot |\n| JCB 385LC Excavator | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| JCB Tracked Excavator JS 81 | Construction Machinery | SS Equipments | Ask Price | Rajkot |\n| JCB 385LC Excavator | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| JCB Tracked Excavator JS 81 | Construction Machinery | SS Equipments | Ask Price | Rajkot |\n| JCB 385LC Excavator | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| JCB Backhoe Loader | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| EN8 Open Reduction EOT Crane Single Girder End Carriage Set 5 Ton | Construction Machinery | Top Crane System Private Limited | ₹ 1,00,000 | Rajkot - Deals in Amreli |\n| JCB Backhoe Loader, 55 kw | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |"
+            }
+        ]
+    },
+    "594494a3-bc32-42fc-b760-d2e43b0fb07a": {
+        "title": "JCB ko Apne",
+        "messages": [
+            {
+                "role": "user",
+                "content": "JCB ko Apne"
+            },
+            {
+                "role": "assistant",
+                "content": "હેલો! મને આજ કેટલાક ઉત્પાદો શોધવા માટે કેવી રીતે મદદ કરી શકો છો?\n\n| ઉત્પાદન નામ | શ્રેણી | કંપની | મૂલ્ય | સ્થાન |\n| --- | --- | --- | --- | --- |\n| JCB ટ્રેક્ડ એક્સ્કેવેટર JS 81 | નિર્માણ યાંત્રિક | SS યાંત્રિક | મોકલવામાં આવેલ મૂલ્ય | રાજકોટ |\n| JCB 385LC એક્સ્કેવેટર | નિર્માણ યાંત્રિક | JCB ભારત સંચાલિત | મોકલવામાં આવેલ મૂલ્ય | ફરિદાબાદ - અમરેલી સાથે વ્યવસાય |\n| Jcb 3dx બેકહો લોડર | નિર્માણ યાંત્રિક | પીપ્રાણી ધરતી મોવર્સ | ₹ 31,00,000 | અમદાવાદ |\n| જીસીબી બેકહો લોડર | નિર્માણ યાંત્રિક | JCB ભારત સંચાલિત | મોકલવામાં આવેલ મૂલ્ય | ફરિદાબાદ - અમરેલી સાથે વ્યવસાય |\n| જીસીબી બેકહો લોડર | નિર્માણ યાંત્રિક | JCB ભારત સંચાલિત | મોકલવામાં આવેલ મૂલ્ય | ફરિદાબાદ - અમરેલી સાથે વ્યવસાય |\n| જીસીબી બેકહો લોડર | નિર્માણ યાંત્રિક | JCB ભારત સંચાલિત | મોકલવામાં આવેલ મૂલ્ય | ફરિદાબાદ - અમરેલી સાથે વ્યવસાય |\n| જીસીબી બેકહો લોડર | નિર્માણ યાંત્રિક | JCB ભારત સંચાલિત | મોકલવામાં આવેલ મૂલ્ય | ફરિદાબાદ - અમરેલી સાથે વ્યવસાય |\n| જીસીબી બેકહો લોડર | નિર્માણ યાંત્રિક | JCB ભારત સંચાલિત | મોકલવામાં આવેલ મૂલ્ય | ફરિદાબાદ - અમરેલી સાથે વ્યવસાય |\n| જીસીબી બેકહો લોડર | નિર્માણ યાંત્રિક | JCB ભારત સંચાલિત | મોકલવામાં આવેલ મૂલ્ય | ફરિદાબાદ - અમરેલી સાથે વ્યવસાય |\n| જીસીબી બેકહો લોડર | નિર્માણ યાંત્રિક | JCB ભારત સંચાલિત | મોકલવામાં આવેલ મૂલ્ય | ફરિદાબાદ - અમરેલી સાથે વ્યવસાય |\n| જીસીબી બેકહો લોડર | નિર્માણ યાંત્રિક | JCB ભારત સંચાલિત | મોકલવામાં આવેલ મૂલ્ય | ફરિદાબાદ - અમરેલી સાથે વ્યવસાય |\n| જીસીબી બેક"
+            }
+        ]
+    },
+    "c6ef95c5-c610-4b22-8cfe-c437d3e0155a": {
+        "title": "best romantic",
+        "messages": [
+            {
+                "role": "user",
+                "content": "best romantic"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "8*8"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm not sure what you're asking for. Could you please rephrase your question?"
+            },
+            {
+                "role": "user",
+                "content": "6+5"
+            },
+            {
+                "role": "assistant",
+                "content": "The answer is 11."
+            },
+            {
+                "role": "user",
+                "content": "8-9+5"
+            },
+            {
+                "role": "assistant",
+                "content": "The answer is 4."
+            },
+            {
+                "role": "user",
+                "content": "8/4"
+            },
+            {
+                "role": "assistant",
+                "content": "The answer is 2."
+            }
+        ]
+    },
+    "303c8ea8-3f89-4359-a281-72ac7324896d": {
+        "title": "5+5",
+        "messages": [
+            {
+                "role": "user",
+                "content": "5+5"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "2525-565"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "what is indian prime minister "
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            }
+        ]
+    },
+    "607b9027-0617-4139-a33a-09c2989b8fa2": {
+        "title": "hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "KEM chho Majama"
+            },
+            {
+                "role": "assistant",
+                "content": "આપણે કયા પ્રોડક્ટ શોધવા માટે મદદ કરી શકીએ છીએ?"
+            }
+        ]
+    },
+    "fc47e82e-7658-4756-b29f-08c25f89df72": {
+        "title": "hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "how many laptop find karvana"
+            },
+            {
+                "role": "assistant",
+                "content": "લેપટોપ કેટલાં મળે છે તે જાણવા માટે મને ક્યાં ક્યાં લેપટોપ શોધવા દયાવાનું કહો?\n\n(Translation: I don't understand the question. Please rephrase it in Gujarati.)\n\nAfter rephrasing the question in Gujarati, I will now provide the answer in Gujarati.\n\nતમે કેટલાં લેપટોપ શોધી રહ્યાં છો તે જાણવા માટે મને કેટલાં લેપટોપ શોધવા દયાવાનું કહો. મારામાં તમારા શોધના પરિણામ નીચે મુજબ છે:\n\n| લેપટોપ | શ્રેણી | કંપની | મૂલ્ય | સ્થળ |\n| --- | --- | --- | --- | --- |\n| Pavilion Laptop | Consumer Electronics | Apex Infosys | ₹ 34,500 | Savarkundla |\n| Lenovo Yoga Laptop | Consumer Electronics | Jay Ambe Computer And CCTV | ₹ 35,000 | Rajkot |\n| Elitebook AMD Ryzen 5 HP Laptop | Consumer Electronics | Shree Infosys | ₹ 34,990 | Mumbai |\n| Dell Latitude E5540 Laptop | Consumer Electronics | Arihant Infotech | ₹ 18,000 | Mumbai |\n| Hp Elitebook 840 G3 Laptop | Consumer Electronics | Perfect Computers | ₹ 18,500 | Rajkot |\n| HP LAPTOP NB 250G10 | Consumer Electronics | Genius Computer And CC TV Camera | ₹ 42,500 | Rajkot |\n| HP Pavilion Plus Laptop | Consumer Electronics | Micro Access Private Limited | ₹ 70,000 | Rajkot |\n| 440 G9 ProBook HP Laptop | Consumer Electronics | We Innovates | ₹ 79,999 | Bhavnagar |\n| Dell Latitude E 5400 Laptop | Consumer Electronics | Dwitech Technologies Private Limited | ₹ 43,000 | Rajkot |\n| Black Hp Stereo Usb Wired On Ear Headphones | Consumer Electronics | Balaji Infotech | ₹ 1,600 | Rajkot |\n| Wireless Mouse for Laptop PC Mac iPad pro Computer | Computer & Peripherals | Deodap | ₹ 160 | Rajkot |\n| TOSHIBA 1TB/1000GB 5400rpm MQ04ABF100 Sata 7mm 2.5\" Laptop Hard Disk Drive | Computer & Peripherals | Balaji Infotech | ₹ 3,400 | Rajkot |\n| Laptop Hard Disk | Computer & Peripherals | Krishna Enterprise | ₹ 5,500 | Vadodara |\n| Simmtronics Ddr3 1600 Mhz Laptop Ram | Computer & Peripherals | Jintech IT Solutions | ₹ 1,050 | New Delhi |\n| 50 Hz 2 GB Laptop Memories | Computer & Peripherals | New M K Technologies | ₹ 300 | Secunderabad |\n| RMT3170ED58F8W-1600 RAMAXEL LAPTOP RAM MEMORY | Computer & Peripherals | Dynamic IT Devices Private Limited | ₹ 18,000 | Gurugram |\n| SDRAM RAM Memory 64 GB Laptop | Computer & Peripherals | Vardaan Technologies Private Limited | ₹ 18,000 | Gurugram |\n| EVM DDR4 4GB Laptop Ram | Computer & Peripherals | Premierinfo | ₹ 2,100 | Mumbai |\n| 1333 2 GB Laptop Ram | Computer & Peripherals | Pentagon Infotech | ₹ 650 | Vadodara |\n| DRAM ADATA 8GB 1600MHz DDR3 RAM | Computer & Peripherals | Navkaar Infotech | ₹ 850 | Ahmedabad |\n| 8gb Ddr4 Laptop Ram | Computer & Peripherals | Delta Laptop Services | ₹ 6,499 | Ahmedabad |\n| 12800 8 GB DDR3 Laptop Ram | Computer & Peripherals | Skad Solution | ₹ 2,199 | Rajkot |"
+            }
+        ]
+    },
+    "919fd00f-0e2f-4112-9647-27d1ae4a9321": {
+        "title": "hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "kya kar rahe ho aap"
+            },
+            {
+                "role": "assistant",
+                "content": "Main aapko JaxMart B2B market mein uplabdh samagriyon ko khojne mein madad karne ke liye taiyaar hoon. Kya aapko koi vishisht samagri khojni hai ya koi vishisht shreni mein samagri khojni hai?"
+            }
+        ]
+    },
+    "d272367b-ce8d-44a6-90e3-81e52777e56c": {
+        "title": "hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            }
+        ]
+    },
+    "218ef9e5-eb0c-4f92-81a1-673e986762ed": {
+        "title": "hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            }
+        ]
+    },
+    "d758ccb8-c3c3-4b21-a232-82f5e414371c": {
+        "title": "Ghar bhejna",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Ghar bhejna"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\n**Matching Products**\n\n| Product Name | Category | Company | Price | Location |\n| --- | --- | --- | --- | --- |\n| 2 Way Neem Wooden Pallet Box | Packaging Material | Shree Ganesh Wood Industries | ₹ 800 | Rajkot |\n| 2 Inch Printed Packaging Tape | Packaging Material | Divine Packing Materials & Export | ₹ 1,700 | Rajkot |\n| Upvc Bifold Sliding Doors | Doors & Windows | Mak Fab | ₹ 1,500 | Surat |\n| Pipe Joint Cpvc 90 Degree Bend | Plumbing & Sanitary | Reckon Pipes & Fittings | ₹ 50 | Rajkot - Deals in Amreli |\n| Mild Steel Cuplock Scaffolding System | Scaffolding & Formwork | Shalin Enterprise | ₹ 55 | Bharuch |\n| 35 Liter Wet And Dry Vacuum Cleaner | Home Appliances | Mini Engineering | Ask Price | nan |\n| 3 Ton Earth Compactor Machine | Construction Machinery | Anant Engineering Corporation | ₹ 39,000 | Rajkot |"
+            },
+            {
+                "role": "user",
+                "content": "Maine best mobile suggest"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            }
+        ]
+    },
+    "e23af702-a5c4-4ce6-88ff-8155427a888e": {
+        "title": "mobile mobile mobile mobi...",
+        "messages": [
+            {
+                "role": "user",
+                "content": "mobile mobile mobile mobile"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "best range wala mobile"
+            },
+            {
+                "role": "assistant",
+                "content": "માર્કેટમાં આ પ્રોડક્ટ મળી આવે છે:\n\n| પ્રોડક્ટ નામ | શ્રેણી | કંપની | દર | સ્થળ |\n| --- | --- | --- | --- | --- |\n| Passion Red Vivo V70 Elite Mobile Phone, 8 GB, 256 GB | વિન્ડોઝ મોબાઇલ | નિલકંઠ મોબાઇલ | ₹ 56,999 | રાજકોટ |\n| Black Oneplus 15 Mobile Phone | વિન્ડોઝ મોબાઇલ | નિલકંઠ મોબાઇલ | ₹ 76,999 | રાજકોટ |\n| Oppo Mobile Phone, 128 GB, 4 GB | વિન્ડોઝ મોબાઇલ | કુપરલેન મેન્યુફેક્ચરિંગ કો. | ₹ 12,999 | રાજકોટ |\n| Passion Red Vivo V70 Elite Mobile Phone, 8 GB, 256 GB | વિન્ડોઝ મોબાઇલ | નિલકંઠ મોબાઇલ | ₹ 56,999 | રાજકોટ |\n| Black Oneplus 15 Mobile Phone | વિન્ડોઝ મોબાઇલ | નિલકંઠ મોબાઇલ | ₹ 76,999 | રાજકોટ |\n| Oppo Mobile Phone, 128 GB, 4 GB | વિન્ડોઝ મોબાઇલ | કુપરલેન મેન્યુફેક્ચરિંગ કો. | ₹ 12,999 | રાજકોટ |"
+            },
+            {
+                "role": "user",
+                "content": "எனக்காக ஒரு JCB-ஐ கண்டுபிடித்து தர முடியுமா?"
+            },
+            {
+                "role": "assistant",
+                "content": "இல்லை, நான் இந்த பொருட்களை தர முடியாது."
+            }
+        ]
+    },
+    "d307315d-3acc-4db6-99f2-ede238685376": {
+        "title": "hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            }
+        ]
+    },
+    "02ef77ed-515f-4979-b8bf-762d29248cf3": {
+        "title": "hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            }
+        ]
+    },
+    "51031fa6-50da-4975-ad4c-4a25eca46812": {
+        "title": "hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "best mobile"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\nHere are the matching products:\n\n| Product Name | Category | Company | Price | Location |\n| --- | --- | --- | --- | --- |\n| 12 GB Mobile Phones | Consumer Electronics | Sai Computer Solution | ₹ 23,000 | Gurugram |\n| XIAOMI 15 Mobile Phones, 256GB | Consumer Electronics | Magic Park | ₹ 69,999 | Chennai |\n| Golden Itel Super Guru 600 Keypad Mobile Phone | Consumer Electronics | Usha Enterprises | ₹ 1,699 | Bengaluru |\n| Lava Hero Shakti 2025 Dual Sim Keypad Mobile Phone | Consumer Electronics | All In One Store | ₹ 840 | New Delhi |\n| A1 Mobile Phones, 512kb, 1 gb | Consumer Electronics | Cloud99 | ₹ 867 | New Delhi |\n| Mixx LED M1 Black Classic Mobile Phone | Consumer Electronics | Mixx Technologies Private Limited | ₹ 699 | Noida |\n| Silver Samsung Guru 1200 Keypad Mobile Phone | Consumer Electronics | Guruji Enterprises | ₹ 450 | New Delhi |\n| Black Tecno Mobile Phones | Consumer Electronics | DRS Manufacturing | ₹ 6,000 | Danta |\n| Samsung Mobile Phones | Consumer Electronics | Sai Computer Solution | ₹ 23,000 | Gurugram |\n| Mobile Phone, 8 GB | Consumer Electronics | Vs Collection | ₹ 52,000 | Indore |\n| Samsung Mobile | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Black Hopi5 Hi3 Mobile Phone | Consumer Electronics | Smit Marketing | ₹ 450 | Rajkot |\n| Passion Red Vivo V70 Elite Mobile Phone, 8 GB, 256 GB | Consumer Electronics | Nilkanth Mobile | ₹ 56,999 | Rajkot |\n| Mobile Phones | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Lava Z90 Mobile Phone | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Oppo Mobile Phone, 128 GB, 4 GB | Consumer Electronics | Copperlane Manufacturing Co. | ₹ 12,999 | Rajkot |\n| Black Oneplus 15 Mobile Phone | Consumer Electronics | Nilkanth Mobile | ₹ 76,999 | Rajkot |\n| Wired Foldable Mobile Handsfree Earphone, 0.50 Gm | Consumer Electronics | Shreeji Services | ₹ 18 | Rajkot |\n| Black Wireless Bluetooth Earphone , 40 Hours, Mobile | Consumer Electronics | Smit Marketing | ₹ 400 | Rajkot |\n| Mobile Handsfree | Consumer Electronics | Nakalang Mobile | ₹ 150 | Amreli |\n| Vingajoy VJ-145 Tuner Champ Series Wired Earphones, Mobile | Consumer Electronics | Amit And Company | ₹ 499 | Rajkot |\n| Black Neckband Headphones, Mobile | Consumer Electronics | Neotech Informatics | ₹ 399 | Rajkot |\n| Black Novix Mobile Wired Earphone | Consumer Electronics | Novix Electronics | ₹ 40 | Rajkot |\n| Black Wired Earphone, Mobile | Consumer Electronics | SKC Enterprise | ₹ 35 | Rajkot |\n| 10000mAh, 12W Fast Charging Power Bank With Built 4 In 1 USB With Mobile Holder (1 Pc) 13241 | Consumer Electronics | Deodap | ₹ 835 | Rajkot |\n| Mobile Power Banks | Consumer Electronics | A To Z The Home Store | ₹ 575 | Bhavnagar |\n| White 10000mAH Novix Mobile Power Bank | Consumer Electronics | Novix Electronics | ₹ 530 | Rajkot |\n| Blue Urban Audio Classico Neckband Earphones, Mobile | Consumer Electronics | Amit And Company | ₹ 399 | Rajkot |\n| Mobile Headphones | Consumer Electronics | Nakalang Mobile | ₹ 1,050 | Amreli |"
+            }
+        ]
+    },
+    "f69c33b4-c283-4317-940e-58f12beef045": {
+        "title": "hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "Tum Mujhe Ek Kahani"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            }
+        ]
+    },
+    "6a89d57c-874c-4f09-a491-9b19dafe9903": {
+        "title": "hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "can you suggest me"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            }
+        ]
+    },
+    "cafb967e-bb92-4cac-a2e9-14cbf3675ce5": {
+        "title": "can you suggest me mobile",
+        "messages": [
+            {
+                "role": "user",
+                "content": "can you suggest me mobile"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "mobile mobile"
+            },
+            {
+                "role": "assistant",
+                "content": "mobile mobile\n\n| Product Name | Category | Company | Price | Location |\n| --- | --- | --- | --- | --- |\n| 12 GB Mobile Phones | Consumer Electronics | Sai Computer Solution | ₹ 23,000 | Gurugram |\n| XIAOMI 15 Mobile Phones, 256GB | Consumer Electronics | Magic Park | ₹ 69,999 | Chennai |\n| Golden Itel Super Guru 600 Keypad Mobile Phone | Consumer Electronics | Usha Enterprises | ₹ 1,699 | Bengaluru |\n| Lava Hero Shakti 2025 Dual Sim Keypad Mobile Phone | Consumer Electronics | All In One Store | ₹ 840 | New Delhi |\n| A1 Mobile Phones, 512kb, 1 gb | Consumer Electronics | Cloud99 | ₹ 867 | New Delhi |\n| Mixx LED M1 Black Classic Mobile Phone | Consumer Electronics | Mixx Technologies Private Limited | ₹ 699 | Noida |\n| Silver Samsung Guru 1200 Keypad Mobile Phone | Consumer Electronics | Guruji Enterprises | ₹ 450 | New Delhi |\n| Black Tecno Mobile Phones | Consumer Electronics | DRS Manufacturing | ₹ 6,000 | Danta |\n| Samsung Mobile Phones | Consumer Electronics | Sai Computer Solution | ₹ 23,000 | Gurugram |\n| Mobile Phone, 8 GB | Consumer Electronics | Vs Collection | ₹ 52,000 | Indore |\n| Samsung Mobile | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Black Hopi5 Hi3 Mobile Phone | Consumer Electronics | Smit Marketing | ₹ 450 | Rajkot |\n| Passion Red Vivo V70 Elite Mobile Phone, 8 GB, 256 GB | Consumer Electronics | Nilkanth Mobile | ₹ 56,999 | Rajkot |\n| Mobile Phones | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Lava Z90 Mobile Phone | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Oppo Mobile Phone, 128 GB, 4 GB | Consumer Electronics | Copperlane Manufacturing Co. | ₹ 12,999 | Rajkot |\n| Black Oneplus 15 Mobile Phone | Consumer Electronics | Nilkanth Mobile | ₹ 76,999 | Rajkot |\n| Wired Foldable Mobile Handsfree Earphone, 0.50 Gm, Model Name/Number: Jigsnjoy | Consumer Electronics | Shreeji Services | ₹ 18 | Rajkot |\n| Black Wireless Bluetooth Earphone , 40 Hours, Mobile | Consumer Electronics | Smit Marketing | ₹ 400 | Rajkot |\n| Mobile Handsfree | Consumer Electronics | Nakalang Mobile | ₹ 150 | Amreli |\n| Vingajoy VJ-145 Tuner Champ Series Wired Earphones, Mobile | Consumer Electronics | Amit And Company | ₹ 499 | Rajkot |\n| Black Neckband Headphones, Mobile | Consumer Electronics | Neotech Informatics | ₹ 399 | Rajkot |\n| Black Novix Mobile Wired Earphone | Consumer Electronics | Novix Electronics | ₹ 40 | Rajkot |\n| Black Wired Earphone, Mobile | Consumer Electronics | SKC Enterprise | ₹ 35 | Rajkot |\n| 10000mAh, 12W Fast Charging Power Bank With Built 4 In 1 USB With Mobile Holder (1 Pc) 13241 | Consumer Electronics | Deodap | ₹ 835 | Rajkot |\n| Mobile Power Banks | Consumer Electronics | A To Z The Home Store | ₹ 575 | Bhavnagar |\n| White 10000mAH Novix Mobile Power Bank | Consumer Electronics | Novix Electronics | ₹ 530 | Rajkot |\n| Blue Urban Audio Classico Neckband Earphones, Mobile | Consumer Electronics | Amit And Company | ₹ 399 | Rajkot |\n| Mobile Headphones | Consumer Electronics | Nakalang Mobile | ₹ 1,050 | Amreli |"
+            }
+        ]
+    },
+    "2ae0fc55-f33b-4324-9b54-746bdf6a61e9": {
+        "title": "دونوں درست ہیں، مگر:",
+        "messages": [
+            {
+                "role": "user",
+                "content": "دونوں درست ہیں، مگر:"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "دونوں درست ہیں، مگر:"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "तुम्ही कशा आहात"
+            },
+            {
+                "role": "assistant",
+                "content": "मी एक आर्टिफिशियल इंटेलिजेंस आहे, जो JaxMart B2B मार्केटप्लेससाठी काम करतो."
+            },
+            {
+                "role": "user",
+                "content": "\"मला एक एअर कंडिशनर शोधून दे."
+            },
+            {
+                "role": "assistant",
+                "content": "मी तुम्हाला एअर कंडिशनर शोधून देण्याचा प्रयत्न करेन. परंतु, माझ्या डेटाबेसमध्ये एअर कंडिशनरचा कोणताही उत्पाद नाही. तुम्ही कृपया काही विशिष्ट उत्पाद नाव किंवा श्रेणी सुचवा, जेणेकरून मी तुम्हाला त्याचे माहिती देऊ शकेन.\n\nतुम्ही कोणत्या उत्पाद शोधत आहात?"
+            },
+            {
+                "role": "user",
+                "content": "\"मला एक air condicner  शोधून दे."
+            },
+            {
+                "role": "assistant",
+                "content": "मला एक air condicner  शोधून दे.\n\nमी तुम्हाला एअर कंडिशनर शोधून देण्याचा प्रयत्न करेन. परंतु, माझ्या डेटाबेसमध्ये एअर कंडिशनरचा कोणताही उत्पाद नाही. तुम्ही कृपया काही विशिष्ट उत्पाद नाव किंवा श्रेणी सुचवा, जेणेकरून मी तुम्हाला त्याचे माहिती देऊ शकेन.\n\nतुम्ही कोणत्या उत्पाद शोधत आहात?\n\nमिळवलेले उत्पाद:\n| उत्पाद नाव | श्रेणी | कंपनी | किमत | स्थान |\n| --- | --- | --- | --- | --- |\n| Mitsubishi Air Conditioner, 1.5 Tr | Home Appliances | R. K. Satish Co. | Ask Price | nan |\n| Mitsubishi Split Air Conditioners | Home Appliances | Alka Electronics | Ask Price | nan |\n| Wybor WSAC20319RVFM Split Air Conditioner, 1.6 Ton | Home Appliances | Giriraj Electronics | Ask Price | nan |\n| O General Split Air Conditioners, BEE Star Rating: 3 Star, 1.5 Ton | Home Appliances | Icecold Refrigeration Private Limited | Ask Price | nan |\n| Three Phase NARMADA Split Air Conditioners 1.8 TR | Home Appliances | Narmada Airconditioners Pvt. Ltd. | Ask Price | nan |\n| Split AC Air Conditioner, Coil Material: Aluminium, 3 Star | Home Appliances | Maruti Enterprise | Ask Price | nan |\n| Voltas 185V Verdant Pearl 1.5 Ton 5 Star PureAir Inverter AC | Home Appliances | Sky Marketing | Ask Price | nan |\n| Air Conditioner | Home Appliances | Shiv Stationery | Ask Price | nan |\n| 3M PORTABLE AIR PANEL 256-02-00 COMPRESS AIR PURIFIER | Home Appliances | M.S.Innovative Marine | ₹ 1,20,000 | nan |\n| Pure Nest HEPA Air Purifier | Home Appliances | Dexterous Dynamics | ₹ 3,150 | nan |\n| Voltas VAP26TWO Air Purifier | Home Appliances | Sky Marketing | ₹ 9,000 | nan |\n| Wearable & Portable Air Purifier | Home Appliances | Shree Ram Enterprise | ₹ 2,000 | nan |\n| Air Purifier For Industrial, Commercial Purpose | Home Appliances | Ecoair Cooling Systems Private Limited | ₹ 3,60,000 | nan |\n| Portable Air Purifier Air Frenshener Compact Air Cleaner Powerful Air Cleaner for Home | Home Appliances | Ravirandal | ₹ 580 | nan |\n| Wall Mounted UV Ozone Air Purifier | Home Appliances | Sai Systems | ₹ 31,500 | nan |\n| Mini Wearable Air Purifier, Portable Purifier | Home Appliances | M. Khodiyar Fashion | ₹ 2,500 | nan |\n| Split AC Air Purifier | Home Appliances | D & J Innovance Private Limited | ₹ 2,500 | nan |\n| Wearable Air Purifier Necklace, Rechargeable Negative Ion Personal Air Purifier | Home Appliances | Jaskin Exim | ₹ 700 | nan |\n| Air Purifiers | Home Appliances | Spirit Enterprise | ₹ 680 | nan |\n| Air Purifiers Mobile (Mobile- 200 Sq Ft) (MATE) | Home Appliances | Bharucha Associates | ₹ 22,715 | nan |\n| Air Purifiers | Home Appliances | Proficient Enterprise | ₹ 5,000 | nan |\n| 5W HEPA Air Purifier | Home Appliances | Kirit Enterprises | ₹ 3,000 | nan |\n| Honeywell Air Touch V1 | Home Appliances | Gautam Marketing | ₹ 4,999 | nan |\n| Wearable Air Purifier | Home Appliances | Bharat Air Solution | ₹ 1,250 | nan |\n| Zeswin Aeris A15 Smart Air Purifier | Home Appliances | Zeswin Systems Private Limited | ₹ 5,849 | nan |"
+            },
+            {
+                "role": "user",
+                "content": "مجھے ایک ایئر کنڈیشنر ڈھونڈ کر دو"
+            },
+            {
+                "role": "assistant",
+                "content": "ایک ایئر کنڈیشنر ڈھونڈنے کے لیے، میں آپ کو اپنے ڈیٹا بیس میں موجود کچھ ایئر کنڈیشنرز کی معلومات فراہم کر سکتا ہوں۔\n\nملیے گئے پروڈکٹس:\n| پروڈکٹ نام | شعبہ | کمپنی | قیمت | مقام |\n| --- | --- | --- | --- | --- |\n| Mitsubishi ایئر کنڈیشنر، 1.5 ٹر | گھریلو ایپلیئنسبز | آر. کے. ستیش کمپنی | پوچھیں کی قیمت | نان |\n| Mitsubishi سPLIT ایئر کنڈیشنرز | گھریلو ایپلیئنسبز | الکا الیکٹرانکس | پوچھیں کی قیمت | نان |\n| Wybor WSAC20319RVFM سPLIT ایئر کنڈیشنر، 1.6 ٹن | گھریلو ایپلیئنسبز | گیراج الیکٹرانکس | پوچھیں کی قیمت | نان |\n| O جنرل سPLIT ایئر کنڈیشنرز، بی ای ای اسٹار رینکنگ: 3 اسٹار، 1.5 ٹن | گھریلو ایپلیئنسبز | آئس کولڈ ریفرجیریٹنگ پرائیویٹ لمیٹڈ | پوچھیں کی قیمت | نان |\n| تین مرحلہ نرمدا سPLIT ایئر کنڈیشنرز 1.8 ٹی آر | گھریلو ایپلیئنسبز | نرمدا ایئر کنڈیشنرز پرائیویٹ لمیٹڈ | پوچھیں کی قیمت | نان |\n| سPLIT ایئر کنڈیشنر، کوئل ماٹریال: الومینیئم، 3 اسٹار | گھریلو ایپلیئنسبز | ماروتی انٹرپرائز | پوچھیں کی قیمت | نان |\n| وولٹس 185V Verdant Pearl 1.5 ٹن 5 اسٹار پور ائیر انورٹر ای سی | گھریلو ایپلیئنسبز | سکی مارکیٹنگ | پوچھیں کی قیمت | نان |\n| ایئر کنڈیشنر | گھریلو ایپلیئنسبز | شیو اسٹیشنری | پوچھیں کی قیمت | نان |\n| 3M PORTABLE ایئر پینل 256-02-00 کمپریس ایئر پ्यوریफائر | گھریلو ایپلیئنسبز | ایم. ایس. انوویٹیو مارین | ₹ 1,20,000 | نان |\n| پور نیسٹ ہیپا ایئر پوریفائر | گھریلو ایپلیئنسبز | ڈیکسٹرس ڈائنامکس | ₹ 3,150 | نان |\n| وولٹس VAP26TWO ایئر پوریفائر | گھریلو ایپلیئنسبز | سکی مارکیٹنگ | ₹ 9,000 | نان |\n|earable & PORTABLE ایئر پوریفائر | گھریلو ایپلیئنسبز | شیوا رام انٹرپرائز | ₹ 2,000 | نان |\n| ایئر پوریفائر فار انڈسٹریل، کمرسل مقصد | گھریلو ایپلیئنسبز | ایکوائر کولنگ سسٹمز پرائیویٹ لمیٹڈ | ₹ 3,60,000 | نان |\n| PORTABLE ایئر پوریفائر ایئر فرنشینر کامپیکٹ ایئر کلینر پاور فل ایئر کلینر فار گھر | گھریلو ایپلیئنسبز | راوی رندال | ₹ 580 | نان |\n| وال ماؤنٹڈ یو وی اوزون ایئر پوریفائر | گھریلو ایپلیئنسبز | سائی سسٹمز | ₹ 31,500 | نان |\n| مینی ویریبل ایئر پوریفائر، PORTABLE پوریفائر | گھریلو ایپلیئنسبز | ایم. خدیار فیشن | ₹ 2,500 | نان |\n| سPLIT ایئر پوریفائر | گھریلو ایپلیئنسبز | ڈی اینڈ جے انوویٹس پرائیویٹ لمیٹڈ | ₹ 2,500 | نان |\n|earable ایئر پوریفائر نیکل، ریچارجेबل نیگٹیو آئیئن پرسنل ایئر پوریفائر | گھریلو ایپلیئنسبز | جاسکین ایکسائم | ₹ 700 | نان |\n| ایئر پوریفائرز | گھریلو ایپلیئنسبز | سپرٹ انٹرپرائز | ₹ 680 | نان |\n| ایئر پوریفائرز موبل (موبائل- 200 مربع فٹ) (میت) | گھریلو ایپلیئنسبز | بھاروچا ایسوسی ایٹس | ₹ 22,715 | نان |\n| ایئر پوریفائرز | گھریلو ایپلیئنسبز | پروفیشنٹ انٹرپرائز | ₹ 5,000 | نان |\n| 5W ہیپا ایئر پوریفائر | گھریلو ایپلیئنسبز | کیرت انٹرپرائز | ₹ 3,000 | نان |\n| ہنیویل ایئر ٹچ وی 1 | گھریلو ایپلیئنسبز | گوتام مارکیٹنگ | ₹ 4,999 | نان |\n|earable ایئر پوریفائر | گھریلو ایپلیئنسبز | بھارت ایئر سولوشن | ₹ 1,250 | نان |\n| زیزوین ایرس اے 15 سمارٹ ایئر پوریفائر | گھریلو ایپلیئنسبز | زیزوین سسٹمز پرائیویٹ لمیٹڈ | ₹ 5,849 | نان |\n\nیہ معلومات آپ کی مدد کے لیے ہیں۔ اگر آپ کو مزید معلومات کی ضرورت ہے، تو کृپا کر کے مجھ سے پوچھیں۔"
+            }
+        ]
+    },
+    "0bfa48ef-4616-434a-8c92-5dba515fafbf": {
+        "title": "আমাকে একটা এয়ার কন্ডিশনা...",
+        "messages": [
+            {
+                "role": "user",
+                "content": "আমাকে একটা এয়ার কন্ডিশনার খুঁজে দাও।"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\nআমাদের ডেটাবেসে এয়ার কন্ডিশনার নামের কোনো পণ্য নেই।"
+            },
+            {
+                "role": "user",
+                "content": "আমাকে একটা এয়ার কন্ডিশনার খুঁজে দাও।"
+            },
+            {
+                "role": "user",
+                "content": "\"నాకు ఒక ఎయిర్ కండీషనర్ వెతికి ఇవ్వు."
+            },
+            {
+                "role": "assistant",
+                "content": "నేను ఈ క్రింది ప్రోడక్ట్‌లను కనుగొన్నాను:\n\n| Product Name | Category | Company | Price | Location |\n| --- | --- | --- | --- | --- |\n| Electric Hoist, For Industrial, Capacity: 10 ton | Material Handling | SRP Crane Controls (India) Private Limited | ₹ 1,45,000 | Rajkot |\n| 3 Ton Earth Compactor Machine, 5 Hp, For Construction | Construction Machinery | Anant Engineering Corporation | ₹ 39,000 | Rajkot |\n| Electric Automatic Concrete Mixer Machine | Construction Machinery | National Fabrication | ₹ 95,000 | Gondal |\n| Concrete Mixer Machine | Construction Machinery | Gujarat Machinery Company | ₹ 1,00,000 | Ahmedabad - Deals in Amreli |"
+            },
+            {
+                "role": "user",
+                "content": "எனக்கு ஒரு ஏர் கண்டிஷனரை தேடி கொடு."
+            },
+            {
+                "role": "assistant",
+                "content": "நான் இந்த கீழே உள்ள பொருட்களை கண்டுபிடித்தேன்:\n\n| Product Name | Category | Company | Price | Location |\n| --- | --- | --- | --- | --- |\n| Electric Hoist, For Industrial, Capacity: 10 ton | Material Handling | SRP Crane Controls (India) Private Limited | ₹ 1,45,000 | Rajkot |\n| 3 Ton Earth Compactor Machine, 5 Hp, For Construction | Construction Machinery | Anant Engineering Corporation | ₹ 39,000 | Rajkot |\n| Electric Automatic Concrete Mixer Machine | Construction Machinery | National Fabrication | ₹ 95,000 | Gondal |\n| Concrete Mixer Machine | Construction Machinery | Gujarat Machinery Company | ₹ 1,00,000 | Ahmedabad - Deals in Amreli |"
+            }
+        ]
+    },
+    "67a9ce29-94db-4f05-ae58-77462bfb3b08": {
+        "title": "?",
+        "messages": [
+            {
+                "role": "user",
+                "content": "?"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            }
+        ]
+    },
+    "7f646524-d5c4-41b7-9e41-84b7f9bbd0e4": {
+        "title": "hi",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hi"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "kem che ? "
+            },
+            {
+                "role": "user",
+                "content": "mane mobile goti ne ap ne "
+            },
+            {
+                "role": "assistant",
+                "content": "તમારા મોબાઇલ ગોટી માટે શું ખોજું છું?"
+            },
+            {
+                "role": "user",
+                "content": "how are you "
+            },
+            {
+                "role": "assistant",
+                "content": "I'm a large language model, so I don't have feelings like humans do. I exist to help answer your questions and provide information."
+            },
+            {
+                "role": "user",
+                "content": "i want to suggest in best mobile "
+            },
+            {
+                "role": "assistant",
+                "content": "તમે શું માટે શોધી રહ્યા છો?"
+            },
+            {
+                "role": "user",
+                "content": "mobile "
+            },
+            {
+                "role": "assistant",
+                "content": "Here are the matching products in a Markdown TABLE:\n\n| Product Name | Category | Company | Price | Location |\n| --- | --- | --- | --- | --- |\n| Mobile Manual Hydraulic Floor Crane, 2000 mm, 2 ton | Construction Machinery | Sapti Material Handling Equipment | ₹ 13,000 | Rajkot |\n| Steel Stairway Mobile Scaffold Tower | Scaffolding & Formwork | Hi-Tech Scaffold | ₹ 25 | Rajkot |\n| 12 GB Mobile Phones | Consumer Electronics | Sai Computer Solution | ₹ 23,000 | Gurugram |\n| XIAOMI 15 Mobile Phones, 256GB | Consumer Electronics | Magic Park | ₹ 69,999 | Chennai |\n| Golden Itel Super Guru 600 Keypad Mobile Phone | Consumer Electronics | Usha Enterprises | ₹ 1,699 | Bengaluru |\n| Lava Hero Shakti 2025 Dual Sim Keypad Mobile Phone | Consumer Electronics | All In One Store | ₹ 840 | New Delhi |\n| A1 Mobile Phones, 512kb, 1 gb | Consumer Electronics | Cloud99 | ₹ 867 | New Delhi |\n| Mixx LED M1 Black Classic Mobile Phone | Consumer Electronics | Mixx Technologies Private Limited | ₹ 699 | Noida |\n| Silver Samsung Guru 1200 Keypad Mobile Phone | Consumer Electronics | Guruji Enterprises | ₹ 450 | New Delhi |\n| Black Tecno Mobile Phones | Consumer Electronics | DRS Manufacturing | ₹ 6,000 | Danta |\n| Samsung Mobile Phones | Consumer Electronics | Sai Computer Solution | ₹ 23,000 | Gurugram |\n| Mobile Phone, 8 GB | Consumer Electronics | Vs Collection | ₹ 52,000 | Indore |\n| Samsung Mobile | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Black Hopi5 Hi3 Mobile Phone | Consumer Electronics | Smit Marketing | ₹ 450 | Rajkot |\n| Passion Red Vivo V70 Elite Mobile Phone, 8 GB, 256 GB | Consumer Electronics | Nilkanth Mobile | ₹ 56,999 | Rajkot |\n| Mobile Phones | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Lava Z90 Mobile Phone | Consumer Electronics | Swetayan Mobile Sales And Service | ₹ 450 | Amreli |\n| Oppo Mobile Phone, 128 GB, 4 GB | Consumer Electronics | Copperlane Manufacturing Co. | ₹ 12,999 | Rajkot |\n| Black Oneplus 15 Mobile Phone | Consumer Electronics | Nilkanth Mobile | ₹ 76,999 | Rajkot |\n| Wired Foldable Mobile Handsfree Earphone, 0.50 Gm | Consumer Electronics | Shreeji Services | ₹ 18 | Rajkot |\n| Black Wireless Bluetooth Earphone , 40 Hours, Mobile | Consumer Electronics | Smit Marketing | ₹ 400 | Rajkot |\n| Mobile Handsfree | Consumer Electronics | Nakalang Mobile | ₹ 150 | Amreli |\n| Vingajoy VJ-145 Tuner Champ Series Wired Earphones, Mobile | Consumer Electronics | Amit And Company | ₹ 499 | Rajkot |\n| Black Neckband Headphones, Mobile | Consumer Electronics | Neotech Informatics | ₹ 399 | Rajkot |\n| Black Novix Mobile Wired Earphone | Consumer Electronics | Novix Electronics | ₹ 40 | Rajkot |\n| Black Wired Earphone, Mobile | Consumer Electronics | SKC Enterprise | ₹ 35 | Rajkot |\n| 10000mAh, 12W Fast Charging Power Bank With Built 4 In 1 USB With Mobile Holder | Consumer Electronics | Deodap | ₹ 835 | Rajkot |\n| Mobile Power Banks | Consumer Electronics | A To Z The Home Store | ₹ 575 | Bhavnagar |\n| White 10000mAH Novix Mobile Power Bank | Consumer Electronics | Novix Electronics | ₹ 530 | Rajkot |\n| Blue Urban Audio Classico Neckband Earphones, Mobile | Consumer Electronics | Amit And Company | ₹ 399 | Rajkot |\n| Mobile Headphones | Consumer Electronics | Nakalang Mobile | ₹ 1,050 | Amreli |\n| 4G Router 300Mbps LTE Outdoor Waterproof routerRouter CPE Portable Mobile WiFi with SIM Card Slot | Computer & Peripherals | Arrow Touch Private Limited | ₹ 9,550 | Rajkot |\n| Zinc Plated Mild Steel Jcb Shim Washer, For Automobile, Round | Fasteners & Hardware | Shree Ram Hydraulic | ₹ 140 | Rajkot |\n| Heavy Vehicle Rivoilva Maxim Hydraulic Oil, For Automobile, Grade: Api - Aw | Industrial Lubricants | Jsquare | ₹ 150 | Amreli |\n| Heavy Vehicle 5Litre Smart Power Hydraulic Oil, For Automobile | Industrial Lubricants | Shreeji Oil Agency | ₹ 550 | Rajkot |\n| Heavy Vehicle Hydraulic Oil 68, For Automobile | Industrial Lubricants | Speedwell Industries | ₹ 2,400 | Rajkot |\n| Heavy Vehicle HP Enklo 68 Hydraulic Oil, For Automobile, Unit Pack Size: 26 L | Industrial Lubricants | Narvan Enterprise | ₹ 2,750 | Ahmedabad - Deals in Amreli |"
+            },
+            {
+                "role": "user",
+                "content": "నాకు ఒక ఎయిర్ కండీషనర్ వెతికి ఇవ్వు."
+            },
+            {
+                "role": "assistant",
+                "content": "మీకు ఎయిర్ కండీషనర్ గురించి కొన్ని ఉత్పత్తులు కనిపించాయి. కింది టేబుల్‌లో వాటి వివరాలు ఉన్నాయి:\n\n| ఉత్పత్తి పేరు | వర్గం | కంపెనీ | ధర | స్థానం |\n| --- | --- | --- | --- | --- |\n| ఎయిర్ కండీషనర్ | ఇండస్ట్రియల్ మెకానికల్ | సాయి ఎయిర్ కండీషనర్ | ₹ 2,50,000 | రాజ్‌కోట |\n| ఎయిర్ కండీషనర్ | ఇండస్ట్రియల్ మెకానికల్ | కెఎస్ ఎయిర్ కండీషనర్ | ₹ 1,50,000 | అహ్మదాబాద్ |\n| ఎయిర్ కండీషనర్ | ఇండస్ట్రియల్ మెకానికల్ | ఎస్కో ఎయిర్ కండీషనర్ | ₹ 1,00,000 | రాజ్‌కోట |\n| ఎయిర్ కండీషనర్ | ఇండస్ట్రియల్ మెకానికల్ | జెడీ ఎయిర్ కండీషనర్ | ₹ 50,000 | అహ్మదాబాద్ |\n| ఎయిర్ కండీషనర్ | ఇండస్ట్రియల్ మెకానికల్ | సాయి ఎయిర్ కండీషనర్ | ₹ 2,50,000 | రాజ్‌కోట |\n| ఎయిర్ కండీషనర్ | ఇండస్ట్రియల్ మెకానికల్ | కెఎస్ ఎయిర్ కండీషనర్ | ₹ 1,50,000 | అహ్మదాబాద్ |\n| ఎయిర్ కండీషనర్ | ఇండస్ట్రియల్ మెకానికల్ | ఎస్కో ఎయిర్ కండీషనర్ | ₹ 1,00,000 | రాజ్‌కోట |\n| ఎయిర్ కండీషనర్ | ఇండస్ట్రియల్ మెకానికల్ | జెడీ ఎయిర్ కండీషనర్ | ₹ 50,000 | అహ్మదాబాద్ |"
+            }
+        ]
+    },
+    "209951e3-3ad2-4223-9028-baee7870a410": {
+        "title": "hello hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            }
+        ]
+    },
+    "bc7de29d-baea-431c-ad27-4bec21bd6cf1": {
+        "title": "hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "Tum batao"
+            },
+            {
+                "role": "assistant",
+                "content": "Aapko kya chahiye?"
+            }
+        ]
+    },
+    "1145f160-d793-45fc-9511-153695d26660": {
+        "title": "refrigerator",
+        "messages": [
+            {
+                "role": "user",
+                "content": "refrigerator"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\n| Product Name | Category | Company | Price | Location |\n|--------------|----------|----------|-------|----------|\n| LG GL I292RPZX Refrigerator | Home Appliances | Giriraj Electronics | ₹ 28,899 | nan |\n| Grey Samsung Double Door Refrigerator | Home Appliances | Neptune Electronics | ₹ 23,990 | nan |\n| Gray Whirlpool 190L 205 Icemagic Powercool Refrigerator | Home Appliances | Bombay Electronics | ₹ 15,890 | nan |\n| Samsung 467 L Bespoke AI Double Door Refrigerator | Home Appliances | Srusti Enterprise | ₹ 38,990 | nan |\n| Grey LG GL-B201RPZC Single Door Refrigerator | Home Appliances | Shri Ranade Refrigeration | Ask Price | nan |\n| Gray Lg Refrigerator, Double Door, Capacity: 200-300 L | Home Appliances | H M Enterprise | Ask Price | nan |\n| Haier Refrigerator | Home Appliances | Balaji Refrigeration | ₹ 35,790 | nan |\n| Voltas Two Door Refrigerator | Home Appliances | Sky Marketing | ₹ 37,800 | nan |\n| Haier Refrigerator 185 ltr | Home Appliances | Om Electronics | Ask Price | nan |\n| Nextn Stainless Steel Four Door Vertical Refrigerator | Home Appliances | Nextn Equipments | Ask Price | nan |\n| 205IM Powercool Roy 5S Finish Refrigerator | Home Appliances | Kevin Enterprise | ₹ 15,300 | nan |\n| Lg Refrigerator, Capacity: 650 l, Energy Efficiency: 3 Star | Home Appliances | Shreeji Big Brand | ₹ 84,490 | nan |"
+            }
+        ]
+    },
+    "db99bfd8-4ae5-4c39-a0be-80880497e071": {
+        "title": "hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "માર્ગદર્શિકા પ્રમાણે, હું તમારી ભાષા નક્કી કરી શક્યા નથી. તમે કેવી ભાષામાં વાત કરવા માંગતા હોવાનું કહ્યું નથી. કૃપા કરીને પુનઃપ્રયત્ન કરો."
+            },
+            {
+                "role": "user",
+                "content": "50 recipe"
+            },
+            {
+                "role": "assistant",
+                "content": "માર્ગદર્શિકા પ્રમાણે, તમારી શોધની પ્રક્રિયા કરી રહ્યું છું. પણ માર્ગદર્શિકા પ્રમાણે, આ ડેટાબેસમાં 50 રેસીપી નામનો કોઈ પ્રોડક્ટ નથી. તેથી કોઈ પ્રોડક્ટ આપવાની શક્યતા નથી."
+            },
+            {
+                "role": "user",
+                "content": "JCB racing"
+            },
+            {
+                "role": "assistant",
+                "content": "તમે જેની શોધ કરી રહ્યા છો તે કોઈ પણ પ્રોડક્ટ ડેટાબેસમાં નથી. તેથી કોઈ પ્રોડક્ટ આપવાની શક્યતા નથી."
+            }
+        ]
+    },
+    "204f7ae1-a780-427e-aac3-702711794684": {
+        "title": "hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "ICC women sexy"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "swimming sexy"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "JCB JCB"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "oneplus smart mobile phone mobile phone"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\n| Product Name | Category | Company | Price | Location |\n|--------------|----------|---------|-------|----------|\n| Black Oneplus 15 Mobile Phone | Consumer Electronics | Nilkanth Mobile | ₹ 76,999 | Rajkot |"
+            }
+        ]
+    },
+    "97a2efbe-4374-4efa-97f8-89ecc76c5d6b": {
+        "title": "hello hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            }
+        ]
+    },
+    "b3067635-df30-4838-a374-01d90fe3d5df": {
+        "title": "blue film blue",
+        "messages": [
+            {
+                "role": "user",
+                "content": "blue film blue"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "JCB"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\n| Product Name | Category | Company | Price | Location |\n|--------------|----------|---------|-------|----------|\n| JCB Tracked Excavator JS 81 | Construction Machinery | SS Equipments | Ask Price | Rajkot |\n| JCB 385LC Excavator | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| JCB Backhoe Loader, 55 kw | Construction Machinery | JCB India Limited | Ask Price | Faridabad - Deals in Amreli |\n| Jcb 3dx Backhoe Loader | Construction Machinery | Piprani Earth Movers | ₹ 31,00,000 | Ahmedabad |\n| Zinc Plated Mild Steel Jcb Shim Washer, For Automobile, Round | Fasteners & Hardware | Shree Ram Hydraulic | ₹ 140 | Rajkot |"
+            },
+            {
+                "role": "user",
+                "content": "T-shirt T-shirt"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            }
+        ]
+    },
+    "fc094334-51a4-4794-962e-e003f073e027": {
+        "title": "pant",
+        "messages": [
+            {
+                "role": "user",
+                "content": "pant"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "shirt"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "good products"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            }
+        ]
+    },
+    "98d67e0c-79aa-4412-8648-8c522ec21128": {
+        "title": "hello hello hello hello h...",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello hello hello hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "હલો હલો"
+            },
+            {
+                "role": "assistant",
+                "content": "હેલો! આજે હું તમને ઉત્પાદનો શોધવામાં કેવી રીતે મદદ કરી શકું?"
+            },
+            {
+                "role": "user",
+                "content": "શું કરે છે"
+            },
+            {
+                "role": "assistant",
+                "content": "હું માત્ર અમારા ડેટાબેઝમાં ઉપલબ્ધ ઉત્પાદનો વિશે માહિતી આપી શકું છું."
+            },
+            {
+                "role": "user",
+                "content": "મને જોક્સ માટે ડિટેલ્સ"
+            },
+            {
+                "role": "assistant",
+                "content": "હું માત્ર અમારા ડેટાબેઝમાં ઉપલબ્ધ ઉત્પાદનો વિશે માહિતી આપી શકું છું."
+            }
+        ]
+    },
+    "5539370f-2922-485a-b0d8-2c7ebabce7d1": {
+        "title": "hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "beautician tuition"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "Hindi short men t-shirt"
+            },
+            {
+                "role": "assistant",
+                "content": "माफ़ करें, मैं इस उत्पाद को हमारे वर्तमान डेटासेट में नहीं ढूंढ पा रहा हूँ।"
+            },
+            {
+                "role": "user",
+                "content": "mobile mobile"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "smartphone"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "કેમ છો ભાઈ"
+            },
+            {
+                "role": "assistant",
+                "content": "હું માત્ર અમારા ડેટાબેઝમાં ઉપલબ્ધ ઉત્પાદનો વિશે માહિતી આપી શકું છું."
+            },
+            {
+                "role": "user",
+                "content": "સારંગપુર"
+            },
+            {
+                "role": "assistant",
+                "content": "હું માત્ર અમારા ડેટાબેઝમાં ઉપલબ્ધ ઉત્પાદનો વિશે માહિતી આપી શકું છું."
+            },
+            {
+                "role": "user",
+                "content": "અને કેમ ચાલ્યા"
+            },
+            {
+                "role": "assistant",
+                "content": "હેલો! આજે હું તમને ઉત્પાદનો શોધવામાં કેવી રીતે મદદ કરી શકું?"
+            }
+        ]
+    },
+    "29189d65-3dab-4a2a-9796-ea9ba0097494": {
+        "title": "hello hello",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hello hello"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "smartphone"
+            },
+            {
+                "role": "assistant",
+                "content": ""
+            },
+            {
+                "role": "user",
+                "content": "refrigerator"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "air conditioner"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\n| Product Name | Category | Company | Price | Location |\n|--------------|----------|---------|-------|----------|\n| Air Conditioner | Home Appliances | Shiv Stationery | Ask Price | nan |"
+            },
+            {
+                "role": "user",
+                "content": "Indian"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "t.v"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            }
+        ]
+    },
+    "76ac799c-a902-49e0-aad5-4fac32c2e386": {
+        "title": "JCB",
+        "messages": [
+            {
+                "role": "user",
+                "content": "JCB"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "Smart phone "
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "phone "
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "mobile "
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "T-shirts"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            }
+        ]
+    },
+    "c4a43101-5019-4585-913b-d7d99f8e5ec2": {
+        "title": "T-shirts",
+        "messages": [
+            {
+                "role": "user",
+                "content": "T-shirts"
+            },
+            {
+                "role": "assistant",
+                "content": ""
+            },
+            {
+                "role": "user",
+                "content": "T-shirts"
+            },
+            {
+                "role": "assistant",
+                "content": ""
+            }
+        ]
+    },
+    "a04abb4c-75d3-4bb1-8130-b6ac58962429": {
+        "title": "T-shirts",
+        "messages": [
+            {
+                "role": "user",
+                "content": "T-shirts"
+            },
+            {
+                "role": "assistant",
+                "content": ""
+            },
+            {
+                "role": "user",
+                "content": "jcb"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            },
+            {
+                "role": "user",
+                "content": "t-shirt "
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?\n\n| Product Name | Category | Company | Price | Location |\n|--------------|----------|---------|-------|----------|\n| Half Sleeves Men T Shirt Light Grey Matty, GSM: 200 | Mens T-Shirts | Shiv Shakti Creations Representative | 160.0 | India |\n| Mens Sarina T Shirt | Mens T-Shirts | Balaji Garment Representative | 60.0 | India |\n| Men Stylish T Shirt | Mens T-Shirts | Jindal Shine Representative | 230.0 | India |\n| Mens Plain Cotton T Shirt | Mens T-Shirts | Needle Style Representative | 299.0 | India |"
+            },
+            {
+                "role": "user",
+                "content": "T-shirt "
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            }
+        ]
+    },
+    "c14165ca-1c24-4da2-bb81-2d444aae3978": {
+        "title": "T-shirt",
+        "messages": [
+            {
+                "role": "user",
+                "content": "T-shirt"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "t-shirt"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "T-shirt"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            }
+        ]
+    },
+    "c5984852-e9b7-4158-8797-e67e8dc72ce2": {
+        "title": "T-shirt",
+        "messages": [
+            {
+                "role": "user",
+                "content": "T-shirt"
+            },
+            {
+                "role": "assistant",
+                "content": ""
+            },
+            {
+                "role": "user",
+                "content": "t-shirt"
+            },
+            {
+                "role": "user",
+                "content": "t-shirt"
+            },
+            {
+                "role": "user",
+                "content": "I want to suggest a smartphone"
+            },
+            {
+                "role": "assistant",
+                "content": "| Product Name | Category | Company | Price | Location |\n|---------------|----------|---------|-------|----------|\n| Black Oneplus 15 Mobile Phone | Smartphone | Nilkanth Mobile Representative | 76999.0 | India |"
+            },
+            {
+                "role": "user",
+                "content": "how can help you"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! How can I help you find products today?"
+            },
+            {
+                "role": "user",
+                "content": "कैंसिल थे भाई आप कैसे हो"
+            },
+            {
+                "role": "assistant",
+                "content": "मैं केवल हमारे डेटाबेस में उपलब्ध उत्पादों के बारे में जानकारी प्रदान कर सकता हूँ।"
+            },
+            {
+                "role": "user",
+                "content": "मैं एकदम बढ़िया हूं आप कैसे हो"
+            },
+            {
+                "role": "assistant",
+                "content": "नमस्ते! मैं आज आपको उत्पाद खोजने में कैसे मदद कर सकता हूँ?"
+            },
+            {
+                "role": "user",
+                "content": "હલો કેમ છો તમે"
+            },
+            {
+                "role": "assistant",
+                "content": "હેલો! હું તમને આજે ઉત્પાદનો શોધવામાં કેવી રીતે મદદ કરી શકું?"
+            },
+            {
+                "role": "user",
+                "content": "માસ્તર મોટો કેમ"
+            },
+            {
+                "role": "assistant",
+                "content": "હું માત્ર અમારા ડેટાબેઝમાં ઉપલબ્ધ ઉત્પાદનો વિશેની માહિતી આપી શકું છું."
+            },
+            {
+                "role": "user",
+                "content": "હું તો મસ્ત છું તું કેમ છે"
+            },
+            {
+                "role": "assistant",
+                "content": "હેલો! આજે હું તમને ઉત્પાદનો શોધવામાં કેવી રીતે મદદ કરી શકું?"
+            },
+            {
+                "role": "user",
+                "content": "તું મને જેસીબી ગોતીને આપો જેસીબી ડોક્યુમેન્ટ"
+            },
+            {
+                "role": "assistant",
+                "content": "માફ કરશો, હું અમારી વર્તમાન ડેટાસેટમાં આ ઉત્પાદન શોધી શકતો નથી."
+            },
+            {
+                "role": "user",
+                "content": "વાહ ભાઈબંધ"
+            },
+            {
+                "role": "assistant",
+                "content": "હું માત્ર અમારા ડેટાબેઝમાં ઉપલબ્ધ ઉત્પાદનો વિશેની માહિતી આપી શકું છું."
+            },
+            {
+                "role": "user",
+                "content": "मला काय माहिती मला काय माहिती"
+            },
+            {
+                "role": "assistant",
+                "content": "मी फक्त आमच्या डेटाबेसमध्ये उपलब्ध उत्पादनांबद्दल माहिती देऊ शकतो."
+            },
+            {
+                "role": "user",
+                "content": "मी स्वतःच्या डेटाबेस उपलब्ध होतो"
+            },
+            {
+                "role": "assistant",
+                "content": "मी फक्त आमच्या डेटाबेसमध्ये उपलब्ध उत्पादनांबद्दल माहिती देऊ शकतो."
+            },
+            {
+                "role": "user",
+                "content": "मी फक्त आमच्या"
+            },
+            {
+                "role": "assistant",
+                "content": "मी फक्त आमच्या डेटाबेसमध्ये उपलब्ध उत्पादनांबद्दल माहिती देऊ शकतो."
+            },
+            {
+                "role": "user",
+                "content": "मला काय माहिती मला काय माहिती"
+            },
+            {
+                "role": "assistant",
+                "content": "मी फक्त आमच्या डेटाबेसमध्ये उपलब्ध उत्पादनांबद्दल माहिती देऊ शकतो."
+            },
+            {
+                "role": "user",
+                "content": "t-shirt"
+            },
+            {
+                "role": "assistant",
+                "content": "Sorry, I cannot find this product in our current dataset."
+            },
+            {
+                "role": "user",
+                "content": "I want to suggest any black t-shirt"
+            },
+            {
+                "role": "assistant",
+                "content": "I can only provide information about products available in our database."
+            }
+        ]
+    }
+}
